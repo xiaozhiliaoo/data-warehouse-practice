@@ -20,3 +20,16 @@ GP，Kylin，Doris，CH等区别。
 
 整个数据处理体系，所有业务。
 
+线上的数据量大小，模型，业务场景决定存储选型。
+
+Impala是在BE还是FE？
+
+数据写入方式，批处理，QPS，数据加载渠道。
+
+向量化查询引擎。
+
+Apache Doris Web UI地址？
+
+TIDB也有DWD这些表，和Doris做数仓的区别是什么？
+
+Doris是Parquet，有嵌套数据模型吗？
